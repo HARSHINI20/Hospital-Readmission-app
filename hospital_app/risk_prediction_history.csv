@@ -1,0 +1,19 @@
+id,timestamp,age,total_visits,n_medications,n_procedures,diag_1,diag_2,diag_3,glucose_test,A1Ctest,predicted_readmission,risk_probability,risk_category
+20250915004235,2025-09-15 00:42:35,[0-10),0,0,0,Circulatory,Digestive,Digestive,Yes,Yes,Yes,60.77256798744202,Medium
+20250915004256,2025-09-15 00:42:56,[40-50),0,0,0,Digestive,Digestive,Injury,Yes,Yes,No,32.65925645828247,Low
+20250915004904,2025-09-15 00:49:04,[0-10),0,0,0,Circulatory,Circulatory,Circulatory,Yes,Yes,Yes,60.77256798744202,Medium
+20250915004933,2025-09-15 00:49:33,[50-60),10,5,2,Circulatory,Diabetes,Respiratory,Yes,Yes,Yes,85.2856457233429,High
+20250915005004,2025-09-15 00:50:04,[60-70),8,5,2,Circulatory,Diabetes,Respiratory,No,No,Yes,75.65025687217712,High
+20250915005035,2025-09-15 00:50:35,[40-50),8,5,8,Musculoskeletal,Injury,Respiratory,No,No,Yes,69.71316337585449,Medium
+20250915010249,2025-09-15 01:02:49,[60-70),0,0,0,Circulatory,Circulatory,Circulatory,Yes,Yes,Yes,60.77256798744202,Medium
+20250915010600,2025-09-15 01:06:00,[0-10),0,0,0,Circulatory,Circulatory,Circulatory,Yes,Yes,Yes,60.77256798744202,Medium
+20250915011804,2025-09-15 01:18:04,[0-10),0,0,0,Circulatory,Circulatory,Circulatory,Yes,Yes,Yes,60.77256798744202,Medium
+20250915013005,2025-09-15 01:30:05,[50-60),10,8,5,Musculoskeletal,Injury,Respiratory,Yes,Yes,Yes,90.5587077140808,High
+20250915013721,2025-09-15 01:37:21,[0-10),0,0,0,Circulatory,Circulatory,Circulatory,Yes,Yes,Yes,60.77256798744202,Medium
+20250915015424,2025-09-15 01:54:24,[0-10),6,4,3,Diabetes,Circulatory,Circulatory,Yes,Yes,Yes,63.24676871299744,Medium
+20250915021530,2025-09-15 02:15:30,[0-10),0,0,0,Circulatory,Circulatory,Circulatory,Yes,Yes,Yes,60.77256798744202,Medium
+20250915022038,2025-09-15 02:20:38,[0-10),0,0,0,Circulatory,Circulatory,Circulatory,Yes,Yes,Yes,60.77256798744202,Medium
+20250915193937,2025-09-15 19:39:37,[10-20],10,8,5,Circulatory,Diabetes,Digestive,Yes,Yes,Yes,90.4761552810669,High
+20250915195843,2025-09-15 19:58:43,[60-70],8,4,3,Circulatory,Musculoskeletal,Digestive,Yes,No,Yes,63.45442533493042,Medium
+20250915205910,2025-09-15 20:59:10,[0-10],3,3,1,Circulatory,Injury,Injury,No,No,No,43.19353699684143,Medium
+20250915230228,2025-09-15 23:02:28,[40-50],7,3,3,Injury,Respiratory,Digestive,1,0,No,43.73161494731903,Medium

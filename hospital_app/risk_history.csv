@@ -1,0 +1,2 @@
+timestamp,age,total_visits,n_medications,n_procedures,diag_1,diag_2,diag_3,glucose_test,A1Ctest,predicted_readmission,risk_probability,risk_category
+2025-09-14 23:18:09,[0-10),0,0,0,Circulatory,Circulatory,Circulatory,Yes,Yes,Yes,60.77256798744202,Medium

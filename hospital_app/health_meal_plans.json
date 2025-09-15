@@ -1,0 +1,122 @@
+{
+  "Circulatory": {
+    "Breakfast": [
+      {"name": "Oatmeal with flax seeds", "calories": 220, "category": "Carb+Fiber"},
+      {"name": "Boiled eggs with tomatoes", "calories": 180, "category": "Protein+Veg"}
+    ],
+    "Lunch": [
+      {"name": "Grilled salmon with quinoa", "calories": 400, "category": "Protein+Carb"},
+      {"name": "Mixed green salad with olive oil", "calories": 250, "category": "Veg+Fat"}
+    ],
+    "Dinner": [
+      {"name": "Steamed chicken with broccoli", "calories": 350, "category": "Protein+Veg"},
+      {"name": "Brown rice with steamed veggies", "calories": 300, "category": "Carb+Veg"}
+    ],
+    "Snacks": [
+      {"name": "Walnuts (10 pcs)", "calories": 80, "category": "Fat+Protein"},
+      {"name": "Carrot sticks with hummus", "calories": 100, "category": "Veg+Protein"}
+    ],
+    "total_calories": 1980,
+    "tips": "Focus on heart-healthy fats, whole grains, lean proteins. Limit salt and processed foods."
+  },
+  "Diabetes": {
+    "Breakfast": [
+      {"name": "Oatmeal with berries", "calories": 250, "category": "Carb+Fruit"},
+      {"name": "Scrambled eggs with spinach", "calories": 200, "category": "Protein+Veg"}
+    ],
+    "Lunch": [
+      {"name": "Grilled chicken salad", "calories": 350, "category": "Protein+Veg"},
+      {"name": "Quinoa vegetable bowl", "calories": 400, "category": "Carb+Veg"}
+    ],
+    "Dinner": [
+      {"name": "Grilled fish with quinoa", "calories": 400, "category": "Protein+Carb"},
+      {"name": "Stir-fried vegetables with tofu", "calories": 350, "category": "Veg+Protein"}
+    ],
+    "Snacks": [
+      {"name": "Almonds (10 pcs)", "calories": 70, "category": "Protein+Fat"},
+      {"name": "Apple slices with peanut butter", "calories": 150, "category": "Fruit+Protein"}
+    ],
+    "total_calories": 2170,
+    "tips": "Meals balanced per WHO: whole grains, lean proteins, fruits, vegetables. Avoid sugary drinks. Monitor blood sugar after meals."
+  },
+  "Digestive": {
+    "Breakfast": [
+      {"name": "Yogurt with honey and oats", "calories": 220, "category": "Protein+Carb"},
+      {"name": "Banana smoothie", "calories": 180, "category": "Fruit+Protein"}
+    ],
+    "Lunch": [
+      {"name": "Grilled fish with steamed veggies", "calories": 350, "category": "Protein+Veg"},
+      {"name": "Brown rice with lentils", "calories": 400, "category": "Carb+Protein"}
+    ],
+    "Dinner": [
+      {"name": "Chicken soup with vegetables", "calories": 300, "category": "Protein+Veg"},
+      {"name": "Steamed zucchini and carrots", "calories": 200, "category": "Veg"}
+    ],
+    "Snacks": [
+      {"name": "Rice cakes with avocado", "calories": 120, "category": "Carb+Fat"},
+      {"name": "Papaya slices", "calories": 80, "category": "Fruit"}
+    ],
+    "total_calories": 1950,
+    "tips": "Include fiber-rich foods, easily digestible meals, avoid heavy fried foods. Drink plenty of water."
+  },
+  "Injury": {
+    "Breakfast": [
+      {"name": "Protein smoothie with berries", "calories": 250, "category": "Protein+Fruit"},
+      {"name": "Whole grain toast with peanut butter", "calories": 200, "category": "Carb+Fat"}
+    ],
+    "Lunch": [
+      {"name": "Grilled chicken with quinoa", "calories": 400, "category": "Protein+Carb"},
+      {"name": "Steamed broccoli and carrots", "calories": 150, "category": "Veg"}
+    ],
+    "Dinner": [
+      {"name": "Baked salmon with sweet potato", "calories": 400, "category": "Protein+Carb"},
+      {"name": "Green salad with olive oil", "calories": 150, "category": "Veg+Fat"}
+    ],
+    "Snacks": [
+      {"name": "Boiled eggs", "calories": 70, "category": "Protein"},
+      {"name": "Mixed nuts (10 pcs)", "calories": 100, "category": "Fat+Protein"}
+    ],
+    "total_calories": 1720,
+    "tips": "Prioritize protein for tissue repair, include anti-inflammatory foods, maintain hydration."
+  },
+  "Musculoskeletal": {
+    "Breakfast": [
+      {"name": "Greek yogurt with berries", "calories": 220, "category": "Protein+Fruit"},
+      {"name": "Oatmeal with almonds", "calories": 200, "category": "Carb+Protein"}
+    ],
+    "Lunch": [
+      {"name": "Grilled chicken salad", "calories": 350, "category": "Protein+Veg"},
+      {"name": "Quinoa bowl with veggies", "calories": 400, "category": "Carb+Veg"}
+    ],
+    "Dinner": [
+      {"name": "Baked salmon with broccoli", "calories": 400, "category": "Protein+Veg"},
+      {"name": "Stir-fried tofu with vegetables", "calories": 350, "category": "Protein+Veg"}
+    ],
+    "Snacks": [
+      {"name": "Almonds (10 pcs)", "calories": 70, "category": "Protein+Fat"},
+      {"name": "Carrot sticks with hummus", "calories": 100, "category": "Veg+Protein"}
+    ],
+    "total_calories": 2190,
+    "tips": "Focus on calcium, protein, and vitamin D-rich foods for muscles and bones. Avoid excessive sugar."
+  },
+  "Respiratory": {
+    "Breakfast": [
+      {"name": "Scrambled eggs with spinach", "calories": 200, "category": "Protein+Veg"},
+      {"name": "Smoothie with banana and oats", "calories": 250, "category": "Carb+Fruit"}
+    ],
+    "Lunch": [
+      {"name": "Grilled fish with quinoa", "calories": 400, "category": "Protein+Carb"},
+      {"name": "Mixed green salad", "calories": 250, "category": "Veg+Fat"}
+    ],
+    "Dinner": [
+      {"name": "Chicken soup with vegetables", "calories": 350, "category": "Protein+Veg"},
+      {"name": "Steamed broccoli and carrots", "calories": 200, "category": "Veg"}
+    ],
+    "Snacks": [
+      {"name": "Almonds (10 pcs)", "calories": 70, "category": "Protein+Fat"},
+      {"name": "Apple slices", "calories": 80, "category": "Fruit"}
+    ],
+    "total_calories": 1850,
+    "tips": "Include foods rich in antioxidants, vitamins C and E. Stay hydrated and avoid processed foods."
+  }
+}
